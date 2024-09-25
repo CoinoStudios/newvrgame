@@ -8,5 +8,6 @@
     <string loc="text4">Hey, [user_name], that's a nice name!</string>
     <string loc="text_bad_word1">Hey that's not your name! That's inappropriate.</string>
     <string loc="text_bad_word2">Please enter a better name.</string>
+    <string loc="text_too_long">Hey that's a little long for a name!</string>
   </group>
 </language>
