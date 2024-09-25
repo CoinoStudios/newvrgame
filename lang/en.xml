@@ -1,3 +1,4 @@
 <language lang="en">
   <string loc="main_name">placeholder</string>
+  <string loc="tutorial_text1">Hello, and welcome to [main_name]</string>
 </language>
