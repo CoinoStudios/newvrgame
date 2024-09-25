@@ -1,5 +1,5 @@
 <language lang="en">
-  <group loc="tutorial>
+  <group loc="tutorial">
     <string loc="main_name">placeholder</string>
     <string loc="text1">Hello and welcome to [main_name].</string>
     <string loc="text2">Huh. You're new here aren't you!</string>
