@@ -1,11 +1,12 @@
 <language lang="en">
   <group loc="tutorial>
     <string loc="main_name">placeholder</string>
-    <string loc="text1">Hello, and welcome to [main_name]</string>
+    <string loc="text1">Hello and welcome to [main_name].</string>
     <string loc="text2">Huh. You're new here aren't you!</string>
     <string loc="text3">May I ask for you name?</string>
     <string loc="text_name">Please enter your name.</string>
-    <string loc="text4">Huh, [user_name] that's a nice name!</string>
-    <string loc="text_bad_word">Huh, this isn't a good name
+    <string loc="text4">Hey, [user_name], that's a nice name!</string>
+    <string loc="text_bad_word1">Hey that's not your name! That's inappropriate.</string>
+    <string loc="text_bad_word2">Please enter a better name.</string>
   </group>
 </language>
